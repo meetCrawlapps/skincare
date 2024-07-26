@@ -1,0 +1,415 @@
+@media (min-width: 375px) {
+    .customers{
+        right: -20%;
+    }
+}
+@media (max-width: 350px) {
+    #offers .buttons{
+        flex-direction: column;
+    }
+}
+
+@media (max-width:375px) {
+    .head-images{
+        padding: 0px 38px;
+    }
+    .head-images .model img,.doar{
+        width: 100%;
+        left:0;
+        top: 0;
+    }
+    .leaf{
+        width: 100.03px;
+        bottom: -32px;
+        right: -36px;
+    }
+    .customers{
+        bottom: 60px;
+    }
+    .video-button{
+        text-wrap: nowrap !important;
+    }
+    .product-demo .product1 img{
+        max-width: 45px;
+    }
+}
+@media (max-width: 576px) and (min-width: 200px){
+    .trial-product img{
+        bottom: 20px !important;
+        right: -10px;
+    }
+    #trial-product .trial-product img{
+        transform: scale(1.3);
+    }
+}
+@media (max-width: 576px) {
+    .increment span{
+        width: 12px ;
+        height: 12px ;
+        line-height: 12px;
+        font-size: 8px;
+    }
+    .increment{
+        padding: 7px !important;
+    }
+    .model-popup .content{
+        gap: 2px;
+    }
+    .head-images .model img,.doar{
+        width: 100%;
+        left:0;
+        top: 0;
+    }
+    .model-popup img{
+        width: 33px;
+        aspect-ratio: 1;
+    }
+    #hero .container{
+        padding: 50px 20px;
+    }
+    .header-content .sub-heading{
+        padding-bottom: 10px;
+    }
+    .header-content .main-heading{
+        padding-bottom: 12px !important;
+    }
+    .shop-button {
+        text-wrap:nowrap;
+    }
+    .video-button .circle{
+        width: 100%;
+    }
+    .product {
+        gap:5.71px;
+        background-size: contain;
+    }
+    .product .d-flex{
+        padding-bottom: 0px;
+    }
+    #attributes{
+        padding: 20px;
+    }
+    #attributes .row{
+        gap:20px;
+    }
+    .head-description{
+        padding: 58px 0px 0px 0px;
+    }
+    #offers .buttons{
+        display: none;
+    }
+    #offers .counter img{
+        width: 36px;
+    }
+    #offers .buttons{
+        gap:16px
+    }
+    #offers .button-main{
+        padding: 10px 15px;
+    }
+    .reviews .col:nth-child(1){
+        flex-direction: row !important;
+    }
+    .reviews .col:nth-child(2){
+        align-items: start !important;
+        padding: 22px 20px !important;
+        gap: 8px;
+    }
+    #offers .offer-heading{
+        padding-bottom: 0px;
+    }
+    #offers .offer-price{
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    #offers .buttons{
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    .reviews {
+        padding: 0px !important;
+    }
+    #offers .box-content .headings{
+        gap: 15px;
+    }
+    #offers .box-content img{
+        width: 54.42px;
+        height: 72px;
+    }
+    .offer-heading{
+        display: block;
+        padding: 0px 20px !important;
+    }
+    .offer-heading-700{
+        display: block;
+    }
+    .our-product{
+        flex-wrap: nowrap;
+    }
+    .video-button{
+        padding: 5px;
+        max-width: 50px;
+        position: relative;
+    }
+    .video-button .circle{
+        width: 38px !important;
+        height: 38px !important;
+    }
+    .play{
+        width: 12px;
+        height: 13px;
+    }
+    #testimonial .left {
+        left: -2%;
+    }
+    #testimonial .right {
+        right: -2%;
+    }
+    .gram-hedings{
+        flex-direction: column !important;
+        gap: 10px;
+    }
+    #gram{
+        gap: 30px;
+    }
+    #gram > .row .gram-image img{
+        height: auto !important;
+    }
+    #footer .foot-head-2 .foot-gap-30{
+        gap: 20px;
+    }
+    #offers .box-content{
+        padding: 15px;
+        max-width: 237px;
+        width: 100%;
+        left: 60%;
+    }
+    #trial-product{
+        padding: 0px !important;
+    }
+}
+@media (max-width: 768px) and (min-width: 576px){
+    .trial-product img{
+        position: relative;
+        bottom: 43px ;
+    }
+}
+@media (max-width: 768px){
+    .arrow-design{
+        display: none;
+    }
+    #offers .offer-details{
+        padding: 40px 20px 0px 20px !important;
+    }
+    .trial-model{
+        gap: 25px;
+    }
+    .trial-model{
+        padding: 20px;
+    }
+    
+    main{
+        gap: 50px;
+    }
+    .detail-card {
+        padding-right: 20px !important;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .trial-product{
+        right:0px;
+        max-width: 75px !important;
+    }
+    .down-arrow {
+        display: none !important;
+    }
+    .options{
+        flex-direction: column !important;
+    }
+    .options .divider{
+        margin: 0px;
+        height: 0px !important;
+        width: 100% !important;
+        border-top: 1.5px dashed #482f280e;
+    }
+    .options {
+        gap: 25px;
+    }
+    .imgcard{
+        background-size: contain;
+        background-repeat: repeat-y;
+    }
+    .trial-product{
+        max-height: 190px;
+        max-width: 35% !important;
+        bottom: 0px;
+    }
+    .trial-product img{
+        position: relative;
+        bottom: 127px;
+    }
+    .trial-product img{
+        width: 100%;
+    }
+    .total{
+        padding:11px 15px;
+    }
+    .small-button{
+        padding: 5px;
+    }
+    .small-button img{
+        width: 19px;
+        height: 21px;
+        color: #fff;
+        padding: 1px !important;
+    }
+    #ShopByProduct{
+        gap: 25pxpx;
+    }
+    .our-product .col{
+        padding-top: 40px;
+        display: none;
+    }
+    .our-product {
+        justify-content: center;
+    }
+    .active-product{
+        display: block !important;
+    }
+    .container{
+        padding-left:20px !important;
+        padding-right:20px !important;
+    }
+    .offer-heading{
+        padding-left: 0px !important;
+    }
+    .container-fluid{
+        padding: 0px !important;
+    }
+    .content-selfline {
+        gap: 10px !important;
+    }
+    #SelfLine .button-main {
+        padding: 10px 20px !important;
+        border-radius: 10px;
+    }
+    .result-images {
+        gap: 15px;
+    }
+    .result-images .col{
+        width: 100%;
+        min-width: 112px;
+        max-width:112px ;
+    }
+    .result-images .col img{
+        width: 100%;
+    }
+    #positive-result .offer-heading{
+        text-align: center !important;
+    }
+    .testimonial-content{
+        padding-top: 30px;
+    }
+    .testimonial-card {
+        padding: 60px 21px 30px 27px !important;
+    }
+    #testimonial .container{
+        padding-bottom: 54px;
+    }
+    
+    #testimonial .testimonial-image{
+        top: -38px;
+        left: 27px;
+        width: 80px !important;
+        height: 80px !important;
+    }
+    #testimonial .testimonial-image img{
+        width: 100%;
+        height: 100%;
+    }
+    .testimonial-main-card{
+        padding-top: 35px;
+    }
+    .testimonial-gap-35{
+        gap: 20px;
+    } 
+    .second-testimonial{
+        bottom: -28px !important;
+    }
+    .third-testimonial{
+        bottom: -58px !important;
+    }
+    #footer .subscribe-button  .button-text{
+        padding: 10px 15px;
+        border-radius: 6px;
+    }
+    #footer .input{
+        padding: 1.55rem 1rem;
+    }
+    #footer .group svg{
+        width: 22px;
+        height: 22px;
+    }
+    #footer .heading-row{
+        padding: 0px;
+    }
+    #footer .heading-row {
+        gap: 20px;
+        background: transparent;
+        padding-top: 30px;
+    }
+    #footer .foot-head-1{
+        gap: 30px;
+    }
+    #footer .data2{
+        max-width: 100% !important;
+    }
+    #footer .payment-imgs {
+        gap: 13px;
+    }
+    #footer .col-md-9{
+        flex-direction: column !important;
+    }
+    #footer .col-md-9 .data1{
+        padding: 15px 0px;
+        border-bottom: 1px solid #ffffff75;
+    }
+    #footer .col-md-9 .data1:last-child{
+        border: none !important;
+    }
+    #footer .data1{
+        max-width: 100% !important;
+    }
+    .options .divider-main{
+        margin: 0px;
+        height: 2px !important;
+        width: 100%;
+        background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='97' ry='97' stroke='%23482F2826' stroke-width='2' stroke-dasharray='6%2c 14' stroke-dashoffset='25' stroke-linecap='square'/%3e%3c/svg%3e");
+border-radius: 97px;
+    }
+    #attributes{
+        padding-left:20px !important;
+    }
+}
+
+@media (max-width: 1000px) {
+    .down-arrow{
+        display: none !important;
+    }
+    .batchcard{
+        display: none;
+    }
+    .second-testimonial{
+        bottom: 60px;
+       
+    }
+    .third-testimonial{
+        bottom: 20px;
+    }
+}
+
+@media (max-width:1224px) {
+    .our-product{
+        gap: 45px !important;
+    }
+}

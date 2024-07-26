@@ -1,0 +1,248 @@
+.main-heading{
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 80px;
+    line-height: 104px;
+    text-align: left;
+    
+}
+.sub-heading{
+    font-family:Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24.42px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+.product-name{
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22.5px;
+    text-align: left;
+}
+.product-price{
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 26.86px;
+    text-align: left;
+}
+.content-head{
+    font-family:'Nanum Myeongjo', serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22.5px;
+    text-align: left;
+}
+.content-text{
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.7px;
+    text-align: left;
+}
+.button-text{
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: left;
+}
+.small-text{
+    font-family: "Nanum Myeongjo";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 33px;
+    text-align: left;
+}
+.offer-heading{
+    font-family: "Nanum Myeongjo";
+    font-size: 70px;
+    font-weight: 600;
+    line-height: 91px;
+    text-align: left;
+}
+.offer-heading-700{
+    font-family: "Nanum Myeongjo";
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 91px;
+    text-align: left;
+}
+.offer-price{
+    font-family: Helvetica,sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 54.94px;
+    text-align: left;
+}
+.testimonial-sidetext{
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+    letter-spacing: 0.05em;
+    text-align: center;
+}
+.review-text{
+    font-family: Helvetica ;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 34.19px;
+    text-align: center;
+}
+.review-text-small{
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.47px;
+    letter-spacing: 0.05em;
+    text-align: center;
+}
+.review-text-mid{
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 23.8px;
+    letter-spacing: 0.05em;
+    text-align: center;
+}
+
+.slider-header{
+    font-family: "Nanum Myeongjo";
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 32.5px;
+    text-align: left;
+}
+.slider-sub-header{
+    font-family: "Nanum Myeongjo";
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+    text-align: center;
+}
+.slider-text{
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+
+.trial-text{
+    font-family: Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+.trial-amount{
+    font-family: Helvetica;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 31.75px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+.trial-amt-sub{
+    font-family: Helvetica ;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.54px;
+    text-align: left;
+}
+.trial-total{
+    font-family: Helvetica;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31.75px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+.trial-sub-total{
+    font-family: Helvetica ;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.98px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+.small-button{
+    font-family: Helvetica ;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18.2px;
+    text-align: left;
+}
+.product-detail-name{
+    font-family: "Nanum Myeongjo";
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 37.5px;
+    text-align: left;
+}
+.product-detail-price{
+    font-family: Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26.86px;
+    text-align: left;
+}
+.selfline-text{
+    font-family: Helvetica ;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+.footer-heading{
+    font-family: "Nanum Myeongjo";
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: left;
+}
+.footer-paragraph{
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+.footer-head{
+    font-family: Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29.3px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+.footer-head-medium{
+    font-family: Helvetica ;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.09px;
+    letter-spacing: 0.05em;
+    text-align: left;    
+}
+.footer-cpoyright-text{
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.86px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+.testimonial-card-text{
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
